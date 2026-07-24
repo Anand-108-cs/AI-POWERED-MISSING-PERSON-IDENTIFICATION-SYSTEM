@@ -42,3 +42,16 @@ The system tracks its object detection training pipeline, with historical runs a
 ```bash
 git clone [https://github.com/yourusername/missing-person-identification.git](https://github.com/yourusername/missing-person-identification.git)
 cd missing-person-identification
+```
+** 2. Install dependencies: **
+Make sure you have Python installed, then run:
+```bash
+pip install -r requirements.txt
+```
+**3. Run the application:**
+```bash
+python app.py
+```
+
+
+
